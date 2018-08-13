@@ -1,0 +1,149 @@
+{
+    "languageButton": "FR"
+    ,
+    "home":{
+        "welcome":"Bonjour !",
+        "me":"Je m'appelle Baptiste, ingénieur informatique en formation.",
+        "description1": "Cela fait 2 ans que je développe, et je voulais afficher mon travail à travers ce site.",
+        "description2": "Vous pouvez en savoir plus sur moi dans les autres onglets.",
+        "description3": "Un CV hors-ligne est disponible en téléchargement.",
+        "learnmore" : "En savoir plus",
+        "internship": {
+            "name" : "En recherche de stage !",
+            "description1": "De Février~Mars 2019 pour une durée de 6 mois.",
+            "description2": " Ce stage permet de finaliser mon cursus scolaire (projet de fin d'étude). Ce stage peut concerner tout ce qui est en rapport avec les technologies de l'information."
+        }
+    }
+    ,
+    "edubg":{
+        "tab":"Parcours scolaire"
+        ,
+        "esisar":{
+            "name" : "Diplôme d'ingénieur",
+            "startdate": "2016",
+            "enddate":"Aujourd'hui",
+            "description":"à GRENOBLE-INP ESISAR (Ecole nationale supérieure en systèmes avancés et réseaux), 26000 Valence, France",
+            "iconurl":"http://esisar.grenoble-inp.fr/images/esisar/logo.gif",
+            "linkurl":"http://esisar.grenoble-inp.fr/"
+        },
+        "cpge":{
+            "name" : "Classe Préparatoire aux Grandes Ecoles (MPSI-MP*)",
+            "startdate": "2014",
+            "enddate":"2016",
+            "description":"au Lycee Victor Hugo, 25000 Besançon, France",
+            "iconurl":"http://lyceehugobesancon.org/LVH/wp-content/uploads/2014/06/logoDef.png",
+            "linkurl":"http://lyceehugobesancon.org/LVH/"
+        },
+        "bac":{
+            "name" : "Baccalauréat Scientifique Mention Bien",
+            "startdate": "2013",
+            "enddate":"2014",
+            "description":"Mention européenne au Lycee Victor Hugo, 25000 Besançon, France",
+            "iconurl":"http://lyceehugobesancon.org/LVH/wp-content/uploads/2014/06/logoDef.png",
+            "linkurl":"http://lyceehugobesancon.org/LVH/"
+        }
+    }
+    ,
+    "projects":{
+        "tab":"Projets",
+        "github":"Voir sur github",
+        "site": {
+            "name":"www.haashi.fr",
+            "description1":"Le site sur lequel vous êtes actuellement.",
+            "description2": "",
+            "description3": ""
+        },
+        "screepsmod-httpwelcome":{
+            "name":"screepsmod-httpwelcome",
+            "description1":"Un mod pour les serveurs privés du jeu Screeps.",
+            "description2": "Il permet de desservir des pages d'accueil lors d'une connection depuis un navigateur.",
+            "description3": ""
+        },
+        "snake":{
+            "name":"SnakeNode",
+            "description1":"Jeu du snake multijoueur",
+            "description2": "Jeu du snake, en basant l'affichage sur cet exemple : https://www.youtube.com/watch?v=AaGK-fj-BAM dans lequel j'ai implémenté le multijoueur.",
+            "description3": "Dans l'implémentation, le serveur de jeu est authoritaire et transmet l'intégralité de l'état du jeu aux clients."
+        },
+        "otrs":{
+            "name": "OTRS TicketStateHistory",
+            "description1":"Plug-in pour Open-source Ticket Request System",
+            "description2": "Ce plug-in permet d'afficher un graphique pour illustrer le temps passé dans chaque état d'un ticket.",
+            "description3": ""
+        },
+        "mips":{
+            "name":"Simulateur processeur MIPS",
+            "description1":"Projet scolaire",
+            "description2": "Simulateur d'un processeur qui réalise des opérations en assembleur, avec gestion de registres.",
+            "description3": ""
+        },
+        "basemod":{
+            "name":"Slay the spire basemod",
+            "description1":"Mod pour le jeu de carte Slay the Spire",
+            "description2": "Ce mod communautaire facilite l'implémentation de nouvelles fonctionnalités et de nouveaux contenus.",
+            "description3": "J'ai notamment pu aider l'implémentation concernant les potions."
+        },
+        "compiler":{
+            "name":"Compilateur JCas",
+            "description1":"Projet scolaire",
+            "description2": "Implémentation java d'un compilateur pour un language scolaire Jcas, language de programmation dynamique sans procédure.",
+            "description3": ""
+        },
+        "httpserver":{
+            "name":"Serveur HTTP",
+            "description1":"Projet scolaire",
+            "description2": "Implémentation d'un serveur http basique en C. Avec quelques règles sémantiques à respecter d'après les RFC 7230-7231.",
+            "description3": ""
+        }
+    },
+    "workexp":{
+        "tab":"Expériences professionnelles"
+        ,
+        "carlsoftware":{
+            "name" : "Projet industriel pour CARL Software 69760 Limonest, France",
+            "startdate" : "Jan 2018",
+            "enddate" : "Juil 2018",
+            "description" : "Leader français dans le logiciel de GMAO et EAM. Notamment éditeur du progiciel CARL Source.",
+            "iconurl": "http://www.carl-software.fr/wp-content/themes/carlsoftware/img/logo_Carlsoftware.jpg",
+            "linkurl":"http://www.carl-software.fr/"
+        },
+        "fcnet":{
+            "name" : "Stage à FC-NET 25000 Besançon, France",
+            "startdate" : "Eté 2017",
+            "description" : "FAI local pour lequel j'ai configuré et étendu le gratuiciel open source OTRS.",
+            "iconurl":"https://www.fcnet.fr/images/logo-fcnet-grand.gif",
+            "linkurl": "https://www.fcnet.fr/"
+        },
+        "polysecurite":{
+            "name" : "Technicien à POLYSECURITE 25000 Besançon, France",
+            "startdate" : "Eté 2016",
+            "description" : "Une société d'installation de surveillance vidéo pour laquelle j'ai configuré/installé des caméras IP avec communication radio.",
+            "iconurl":"https://www.poly-securite.com/wp-content/uploads/2018/01/logo-poly-securite.png",
+            "linkurl":"https://www.poly-securite.com/"
+        },
+        "planifico":{
+            "name" : "Stage à Planifico J5A 0B3 QC - Canada",
+            "startdate" : "Juil 2018",
+            "enddate" : "Aujourd'hui",
+            "description" : "",
+            "iconurl":"planifico.png",
+            "linkurl":"https://www.planifico.co/"
+        }
+    },
+    "download":{
+        "resume":"Télécharger CV",
+        "resumelink":"Baptiste_Pontanier_CV.pdf"
+    }
+    ,
+    "info":{
+        "current": "Etudiant à Grenoble-INP Esisar"
+        ,
+        "place": "Valence, FRA",
+        "languages":{
+            "tag":"Langues",
+            "fr":"Français",
+            "en":"Anglais"
+        }
+    }
+    
+}

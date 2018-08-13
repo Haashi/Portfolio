@@ -1,0 +1,19 @@
+.network-icon {
+    color: grey;
+    margin-right: 16px;
+}
+
+.network-icon:hover {
+    color: black;
+}
+
+.logo {
+    display:block;
+    margin:auto;
+    width:auto;
+    height:40px;
+}
+
+.dropdown-item:hover{
+    background-color: lightgray
+}

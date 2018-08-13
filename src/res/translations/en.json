@@ -1,0 +1,148 @@
+{
+    "languageButton": "EN"
+    ,
+    "home":{
+        "welcome":"Hi !",
+        "me": "My name is Baptiste, French IT engineering student.",
+        "description1": "I've been coding for now 2 years and wish to showcase my work on this site.",
+        "description2": "You can know more about me in the other tabs.",
+        "description3": "You also can download my offline resume.",
+        "learnmore" : "Learn more",
+        "internship": {
+            "name" : "Looking for internship !",
+            "description1": "From February~March 2019 for a duration of 6 months.",
+            "description2": " This internship is required for me to graduate from engineering school. This can be about anything related to IT."
+        }
+    }
+    ,
+    "edubg":{
+        "tab":"Educational background"
+        ,
+        "esisar":{
+            "name" : "IT engineering degree",
+            "startdate": "2016",
+            "enddate":"Current",
+            "description":"at GRENOBLE-INP ESISAR (Higher Institute of Engineering in Advanced Systems and Networks), 26000 Valence, France",
+            "iconurl":"http://esisar.grenoble-inp.fr/images/esisar/logo.gif",
+            "linkurl":"http://esisar.grenoble-inp.fr/welcome/"
+        },
+        "cpge":{
+            "name" : "Mathematics Preparatory School (MPSI-MP*)",
+            "startdate": "2014",
+            "enddate":"2016",
+            "description":"at Lycee Victor Hugo, 25000 Besançon, France",
+            "iconurl":"http://lyceehugobesancon.org/LVH/wp-content/uploads/2014/06/logoDef.png",
+            "linkurl":"http://lyceehugobesancon.org/LVH/"
+        },
+        "bac":{
+            "name" : "A levels of Science with honours",
+            "startdate": "2013",
+            "enddate":"2014",
+            "description":"European class at Lycee Victor Hugo, 25000 Besançon, France",
+            "iconurl":"http://lyceehugobesancon.org/LVH/wp-content/uploads/2014/06/logoDef.png",
+            "linkurl":"http://lyceehugobesancon.org/LVH/"
+        }
+    }
+    ,
+    "projects":{
+        "tab":"Projects",
+        "github":"See me on github",
+        "site": {
+            "name":"www.haashi.fr",
+            "description1":"The site you are currently browsing.",
+            "description2": "",
+            "description3": ""
+        },
+        "screepsmod-httpwelcome":{
+            "name":"screepsmod-httpwelcome",
+            "description1":"A mod for the Screeps private server.",
+            "description2": "It allows to serve static welcome page for browser connections.",
+            "description3": ""
+        },
+        "snake":{
+            "name":"SnakeNode",
+            "description1":"Snake multiplayer game.",
+            "description2": "Small snake game, using this implementation as a base : https://www.youtube.com/watch?v=AaGK-fj-BAM on top of which I added multiplayer.",
+            "description3": "In the implementation, the serveur is authority and send the whole game state to the clients."
+        },
+        "otrs":{
+            "name": "OTRS TicketStateHistory",
+            "description1":"Add-on to Open-source Ticket Request System",
+            "description2": "This add-on shows a diagram to illustrate the time spent in all states of a ticket.",
+            "description3": ""
+        },
+        "mips":{
+            "name":"MIPS processor emulator",
+            "description1":"School project",
+            "description2": "Processor emulator that reads assembly with registers management",
+            "description3": ""
+        },
+        "basemod":{
+            "name":"Slay the spire basemod",
+            "description1":"Mod for the game Slay the Spire",
+            "description2": "This community mod helps to create new features and contents to the game.",
+            "description3": "I especially helped for the potions features."
+        },
+        "compiler":{
+            "name":"JCas Compiler",
+            "description1":"School project",
+            "description2": "Java compiler for the school langage Jcas, dynamic langage without function.",
+            "description3": ""
+        },
+        "httpserver":{
+            "name":"HTTP server",
+            "description1":"School project",
+            "description2": "Basic HTTP server with some semantics rules according to RFC 7230-7231.",
+            "description3": ""
+        }
+    },
+    "workexp":{
+        "tab":"Work experience"
+        ,
+        "carlsoftware":{
+            "name" : "School project for CARL Software 69760 Limonest, France",
+            "startdate" : "Jan 2018",
+            "enddate" : "July 2018",
+            "description" : "The french leader of CMMS and EAM softwares. Namely developper of CARL Source.",
+            "iconurl":"http://www.carl-software.fr/wp-content/themes/carlsoftware/img/logo_Carlsoftware.jpg",
+            "linkurl":"http://www.carl-software.fr/"
+        }
+        ,
+        "fcnet":{
+            "name" : "Internship at FC-NET 25000 Besançon, France",
+            "startdate" : "Summer 2017",
+            "description" : "A local ISP for which I helped configuring, extanding the open source freeware OTRS.",
+            "iconurl":"https://www.fcnet.fr/images/logo-fcnet-grand.gif",
+            "linkurl": "https://www.fcnet.fr/"
+        },
+        "polysecurite":{
+            "name" : "Technician in POLYSECURITE 25000 Besançon, France",
+            "startdate" : "Summer 2016",
+            "description" : "A surveillance society for which I set up surveillance IP Camera in public places, and also two-way radios.",
+            "iconurl":"https://www.poly-securite.com/wp-content/uploads/2018/01/logo-poly-securite.png",
+            "linkurl":"https://www.poly-securite.com/"
+        },
+        "planifico":{
+            "name" : "Internship at Planifico J5A 0B3 QC - Canada",
+            "startdate" : "July 2018",
+            "enddate" : "Current",
+            "description" : "",
+            "iconurl":"planifico.png",
+            "linkurl":"https://www.planifico.co/"
+        }
+    },
+    "download":{
+        "resume":"Download offline resume",
+        "resumelink":"Baptiste_Pontanier_resume.pdf"
+    },
+    "info":{
+        "current": "Student at Grenoble-INP Esisar"
+        ,
+        "place": "Valence, FRA",
+        "languages":{
+            "tag":"Languages",
+            "fr":"French",
+            "en":"English"
+        }
+    }
+}
