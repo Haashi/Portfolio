@@ -23,7 +23,7 @@
             "startdate": "2016",
             "enddate":"Aujourd'hui",
             "description":"à GRENOBLE-INP ESISAR (Ecole nationale supérieure en systèmes avancés et réseaux), 26000 Valence, France",
-            "iconurl":"http://esisar.grenoble-inp.fr/images/esisar/logo.gif",
+            "iconurl":"logo-esisar.gif",
             "linkurl":"http://esisar.grenoble-inp.fr/"
         },
         "cpge":{
@@ -31,7 +31,7 @@
             "startdate": "2014",
             "enddate":"2016",
             "description":"au Lycee Victor Hugo, 25000 Besançon, France",
-            "iconurl":"http://lyceehugobesancon.org/LVH/wp-content/uploads/2014/06/logoDef.png",
+            "iconurl":"logoDef.png",
             "linkurl":"http://lyceehugobesancon.org/LVH/"
         },
         "bac":{
@@ -39,7 +39,7 @@
             "startdate": "2013",
             "enddate":"2014",
             "description":"Mention européenne au Lycee Victor Hugo, 25000 Besançon, France",
-            "iconurl":"http://lyceehugobesancon.org/LVH/wp-content/uploads/2014/06/logoDef.png",
+            "iconurl":"logoDef.png",
             "linkurl":"http://lyceehugobesancon.org/LVH/"
         }
     }
@@ -104,21 +104,21 @@
             "startdate" : "Jan 2018",
             "enddate" : "Juil 2018",
             "description" : "Leader français dans le logiciel de GMAO et EAM. Notamment éditeur du progiciel CARL Source.",
-            "iconurl": "http://www.carl-software.fr/wp-content/themes/carlsoftware/img/logo_Carlsoftware.jpg",
+            "iconurl": "logo_Carlsoftware.jpg",
             "linkurl":"http://www.carl-software.fr/"
         },
         "fcnet":{
             "name" : "Stage à FC-NET 25000 Besançon, France",
             "startdate" : "Eté 2017",
             "description" : "FAI local pour lequel j'ai configuré et étendu le gratuiciel open source OTRS.",
-            "iconurl":"https://www.fcnet.fr/images/logo-fcnet-grand.gif",
+            "iconurl":"logo-fcnet-grand.gif",
             "linkurl": "https://www.fcnet.fr/"
         },
         "polysecurite":{
             "name" : "Technicien à POLYSECURITE 25000 Besançon, France",
             "startdate" : "Eté 2016",
             "description" : "Une société d'installation de surveillance vidéo pour laquelle j'ai configuré/installé des caméras IP avec communication radio.",
-            "iconurl":"https://www.poly-securite.com/wp-content/uploads/2018/01/logo-poly-securite.png",
+            "iconurl":"logo-poly-securite.png",
             "linkurl":"https://www.poly-securite.com/"
         },
         "planifico":{

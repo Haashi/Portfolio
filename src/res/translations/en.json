@@ -23,7 +23,7 @@
             "startdate": "2016",
             "enddate":"Current",
             "description":"at GRENOBLE-INP ESISAR (Higher Institute of Engineering in Advanced Systems and Networks), 26000 Valence, France",
-            "iconurl":"http://esisar.grenoble-inp.fr/images/esisar/logo.gif",
+            "iconurl":"logo-esisar.gif",
             "linkurl":"http://esisar.grenoble-inp.fr/welcome/"
         },
         "cpge":{
@@ -31,7 +31,7 @@
             "startdate": "2014",
             "enddate":"2016",
             "description":"at Lycee Victor Hugo, 25000 Besançon, France",
-            "iconurl":"http://lyceehugobesancon.org/LVH/wp-content/uploads/2014/06/logoDef.png",
+            "iconurl":"logoDef.png",
             "linkurl":"http://lyceehugobesancon.org/LVH/"
         },
         "bac":{
@@ -39,7 +39,7 @@
             "startdate": "2013",
             "enddate":"2014",
             "description":"European class at Lycee Victor Hugo, 25000 Besançon, France",
-            "iconurl":"http://lyceehugobesancon.org/LVH/wp-content/uploads/2014/06/logoDef.png",
+            "iconurl":"logoDef.png",
             "linkurl":"http://lyceehugobesancon.org/LVH/"
         }
     }
@@ -104,7 +104,7 @@
             "startdate" : "Jan 2018",
             "enddate" : "July 2018",
             "description" : "The french leader of CMMS and EAM softwares. Namely developper of CARL Source.",
-            "iconurl":"http://www.carl-software.fr/wp-content/themes/carlsoftware/img/logo_Carlsoftware.jpg",
+            "iconurl":"logo_Carlsoftware.jpg",
             "linkurl":"http://www.carl-software.fr/"
         }
         ,
@@ -112,14 +112,14 @@
             "name" : "Internship at FC-NET 25000 Besançon, France",
             "startdate" : "Summer 2017",
             "description" : "A local ISP for which I helped configuring, extanding the open source freeware OTRS.",
-            "iconurl":"https://www.fcnet.fr/images/logo-fcnet-grand.gif",
+            "iconurl":"logo-fcnet-grand.gif",
             "linkurl": "https://www.fcnet.fr/"
         },
         "polysecurite":{
             "name" : "Technician in POLYSECURITE 25000 Besançon, France",
             "startdate" : "Summer 2016",
             "description" : "A surveillance society for which I set up surveillance IP Camera in public places, and also two-way radios.",
-            "iconurl":"https://www.poly-securite.com/wp-content/uploads/2018/01/logo-poly-securite.png",
+            "iconurl":"logo-poly-securite.png",
             "linkurl":"https://www.poly-securite.com/"
         },
         "planifico":{
