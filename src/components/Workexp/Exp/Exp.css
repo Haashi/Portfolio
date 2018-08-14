@@ -1,36 +1,36 @@
-.exp.anim{
-    animation: exp-anim 1s ease-in 0s 1;
+.exp.anim {
+  animation: exp-anim 1s ease-in 0s 1;
 }
 
 @keyframes exp-anim {
-    0% {
-        opacity: 0;
-    }
-    50%{
-        opacity:0;
-    }
-    100% {
-        opacity: 1;
-    }
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
-.exp ul{
-    list-style: none;
-    padding-left: 3em;
+.exp ul {
+  list-style: none;
+  padding-left: 3em;
 }
 .exp li {
-    position: relative;
-    padding-left: 20px;
+  position: relative;
+  padding-left: 20px;
 }
 .exp li:before {
-    content: '';
-    width: 10px;
-    height: 10px;
-    position: absolute;
-    background-image: url('../../../res/icons/bullet.png');
-    background-size: cover;
-    background-position: center;
-    left: 0;
-    top: 50%;
-    transform: translateY(-50%);
+  content: "";
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  background-image: url("../../../res/icons/bullet.png");
+  background-size: cover;
+  background-position: center;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
 }

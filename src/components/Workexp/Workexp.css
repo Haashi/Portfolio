@@ -1,13 +1,13 @@
 .workexp.anim {
-    animation: workexp-anim 0.5s ease-in 0s 1;
+  animation: workexp-anim 0.5s ease-in 0s 1;
 }
 
 @keyframes workexp-anim {
-    0% {
-        opacity: 0;
-    }
+  0% {
+    opacity: 0;
+  }
 
-    100% {
-        opacity: 1;
-    }
+  100% {
+    opacity: 1;
+  }
 }
