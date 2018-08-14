@@ -27,7 +27,7 @@ class Exp extends Component {
         <div className="w3-container row exp anim">
           <div className="col-2">
             <a target="_blank" href={t('workexp.'+this.props.id+'.linkurl',{ framework: "react-i18next" })}>
-            <img src={t('workexp.'+this.props.id+'.iconurl',{ framework: "react-i18next" })} className="w3-rounded w3-image vertical-center" alt={t('workexp.'+this.props.id+'.iconurl',{ framework: "react-i18next" })}/>
+            <img src={t('workexp.'+this.props.id+'.iconurl',{ framework: "react-i18next" })} className="w3-rounded w3-hide-small w3-image vertical-center" alt={t('workexp.'+this.props.id+'.iconurl',{ framework: "react-i18next" })}/>
             </a>
           </div>
           <div className="col-1"/>

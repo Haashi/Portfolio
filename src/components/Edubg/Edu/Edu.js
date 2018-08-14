@@ -10,7 +10,7 @@ class Edu extends Component {
         <div className="w3-container row edu anim">
           <div className="col-2">
             <a target="_blank" href={t('edubg.'+this.props.id+'.linkurl',{ framework: "react-i18next" })}>
-              <img src={t('edubg.'+this.props.id+'.iconurl',{ framework: "react-i18next" })} className="w3-rounded w3-image vertical-center" alt={t('edubg.'+this.props.id+'.iconurl',{ framework: "react-i18next" })}/>
+              <img src={t('edubg.'+this.props.id+'.iconurl',{ framework: "react-i18next" })} className="w3-rounded w3-hide-small w3-image vertical-center" alt={t('edubg.'+this.props.id+'.iconurl',{ framework: "react-i18next" })}/>
             </a>
           </div>
         <div className="col-1"/>

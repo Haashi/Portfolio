@@ -66,7 +66,7 @@
             "description3": "Dans l'implémentation, le serveur de jeu est authoritaire et transmet l'intégralité de l'état du jeu aux clients."
         },
         "otrs":{
-            "name": "OTRS TicketStateHistory",
+            "name": "OTRS Ticket State History",
             "description1":"Plug-in pour Open-source Ticket Request System",
             "description2": "Ce plug-in permet d'afficher un graphique pour illustrer le temps passé dans chaque état d'un ticket.",
             "description3": ""

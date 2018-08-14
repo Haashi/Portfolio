@@ -11,6 +11,7 @@ class Project extends Component {
     })
     const description = <div>
                         <div className="jumbotron w3-center w3-twothird">
+                        <br/>
                         <h1 className="display-4">{ t('projects.'+this.props.id+'.name', { framework: "react-i18next" }) }</h1>
                         <p className="lead">{ t('projects.'+this.props.id+'.description1', { framework: "react-i18next" }) }</p>
                         <br/>
