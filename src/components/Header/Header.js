@@ -27,7 +27,7 @@ class Header extends Component {
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <div className="col-2">
             <Link to="/">
-              <img alt="logo" className="logo" src="logo.gif" />
+              <img alt="logo" className="logo" src="/logo.gif" />
             </Link>
           </div>
           <button

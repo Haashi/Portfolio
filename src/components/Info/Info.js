@@ -1,11 +1,19 @@
 import React, { Component } from "react";
+import { withRouter } from "react-router-dom";
 import { translate } from "react-i18next";
 
 class Info extends Component {
   render() {
     const { t } = this.props;
+    console.log();
     return (
-      <div className="w3-third w3-hide-small">
+      <div
+        className={
+          this.props.location.pathname.startsWith("/edubg")
+            ? "w3-third"
+            : "w3-third w3-hide-small"
+        }
+      >
         <div className="w3-white w3-text-grey w3-card-4 w3-margin-bottom w3-margin-left">
           <div className="w3-display-container">
             <img src="profile.jpg" style={{ width: "100%" }} alt="Avatar" />
@@ -68,4 +76,4 @@ class Info extends Component {
   }
 }
 
-export default translate("common")(Info);
+export default withRouter(translate("common")(Info));
