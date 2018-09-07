@@ -119,8 +119,8 @@
     "planifico": {
       "name": "Internship at Planifico J5A 0B3 QC - Canada",
       "startdate": "July 2018",
-      "enddate": "Current",
-      "description": "",
+      "enddate": "Sept 2018",
+      "description": "Porting web application to native Windows/iOS/Android using webviews.",
       "iconurl": "planifico.png",
       "linkurl": "https://www.planifico.co/"
     }

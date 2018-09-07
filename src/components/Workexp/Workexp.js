@@ -17,7 +17,6 @@ class Workexp extends Component {
           <Exp
             id="planifico"
             skillList={["Android/Java", "iOS/Swift", "ElectronJS", "WebView"]}
-            current
           />
           <Exp
             id="carlsoftware"
