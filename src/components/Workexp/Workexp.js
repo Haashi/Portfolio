@@ -14,6 +14,7 @@ class Workexp extends Component {
             {t("workexp.tab", { framework: "react-i18next" })}
           </h2>
           <hr />
+          <Exp id="synaaps" current skillList={["Monitoring", "Nagios"]} />
           <Exp
             id="planifico"
             skillList={["Android/Java", "iOS/Swift", "ElectronJS", "WebView"]}

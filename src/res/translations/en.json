@@ -123,6 +123,14 @@
       "description": "Porting web application to native Windows/iOS/Android using webviews.",
       "iconurl": "planifico.png",
       "linkurl": "https://www.planifico.co/"
+    },
+    "synaaps": {
+      "name": "Internship at SynAaps 69603 Villeurbanne, France",
+      "startdate": "Febr 2019",
+      "enddate": "Current",
+      "description": "",
+      "iconurl": "synaaps.png",
+      "linkurl": "https://www.synaaps.com/"
     }
   },
   "download": {

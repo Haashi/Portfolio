@@ -123,6 +123,14 @@
       "description": "Portage d'une application web vers des applications natives sur les plateformes Windows/iOS/Android via des webviews.",
       "iconurl": "planifico.png",
       "linkurl": "https://www.planifico.co/"
+    },
+    "synaaps": {
+      "name": "Stage à SynAaps 69603 Villeurbanne, France",
+      "startdate": "Févr 2019",
+      "enddate": "Aujourd'hui",
+      "description": "",
+      "iconurl": "synaaps.png",
+      "linkurl": "https://www.synaaps.com/"
     }
   },
   "download": {
