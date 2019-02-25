@@ -65,6 +65,7 @@ class Project extends Component {
             <div className="w3-container">
               <a
                 className="github-fork-ribbon left-top"
+                rel="noopener noreferrer"
                 target="_blank"
                 href={this.props.github}
                 data-ribbon={t("projects.github", {

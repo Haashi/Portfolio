@@ -10,6 +10,7 @@ class Edu extends Component {
         <div className="w3-container row edu anim">
           <div className="col-2 w3-hide-small">
             <a //link to school
+              rel="noopener noreferrer"
               target="_blank"
               href={t("edubg." + this.props.id + ".linkurl", {
                 framework: "react-i18next"

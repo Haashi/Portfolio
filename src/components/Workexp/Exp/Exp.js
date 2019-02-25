@@ -63,6 +63,7 @@ class Exp extends Component {
         <div className="w3-container row exp anim">
           <div className="col-2 w3-hide-small">
             <a
+              rel="noopener noreferrer"
               target="_blank"
               href={t("workexp." + this.props.id + ".linkurl", {
                 framework: "react-i18next"
