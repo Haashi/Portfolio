@@ -9,7 +9,6 @@ import "./Wrapper.css";
 
 class Wrapper extends Component {
   render() {
-    console.log(this.props.location.pathname);
     return (
       <div
         className="w3-content w3-margin-top w3-margin-bottom wrapper anim"
