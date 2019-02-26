@@ -5,7 +5,7 @@
   overflow: hidden;
   top: auto;
   right: auto;
-  z-index: 9999;
+  z-index: 1;
   pointer-events: none;
   font-size: 13px;
   text-decoration: none;

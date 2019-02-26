@@ -8,10 +8,12 @@ import "./Main.css";
 class Main extends Component {
   render() {
     return (
-      <Switch location={this.props.location}>
-        <Route exact path="/(edubg|workexp|)/" component={Wrapper} />
-        <Route exact path="/projects" component={Projects} />
-      </Switch>
+      <div className="main">
+        <Switch location={this.props.location}>
+          <Route exact path="/(edubg|workexp|)/" component={Wrapper} />
+          <Route exact path="/projects" component={Projects} />
+        </Switch>
+      </div>
     );
   }
 }
