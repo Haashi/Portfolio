@@ -80,7 +80,7 @@ class Exp extends Component {
               />
             </a>
           </div>
-          <div className="col-1" />
+          <div className="col-1 w3-hide-small" />
           <div className="col-9">
             <h5 className="w3-opacity">
               <b>

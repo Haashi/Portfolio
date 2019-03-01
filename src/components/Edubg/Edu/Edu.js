@@ -28,7 +28,7 @@ class Edu extends Component {
             </a>
           </div>
           <div //small padding between icon and text
-            className="col-1"
+            className="col-1 w3-hide-small"
           />
           <div //main text
             className="col-9"
