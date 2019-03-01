@@ -11,7 +11,12 @@ class App extends Component {
     super(props);
     const { cookies, i18n } = this.props;
     //checking for cookie language, if not found, use french as default language
-    i18n.changeLanguage(cookies.get("lang") || "fr");
+    i18n.changeLanguage(
+      cookies.get("lang") ||
+        (navigator.language || navigator.userLanguage).substring(0, 2) === "fr"
+        ? "fr"
+        : "en"
+    );
   }
   render() {
     //header need router handling to make tab active on bootstrap navbar
