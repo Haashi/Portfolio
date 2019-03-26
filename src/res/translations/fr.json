@@ -43,6 +43,12 @@
   "projects": {
     "tab": "Projets",
     "github": "Voir sur github",
+    "remindme": {
+      "name": "remindme.haashi.fr",
+      "description1": "Site minimaliste pour envoyer des mails de rappel.",
+      "description2": "Le projet utilise Firebase comme serveur et base de données.",
+      "description3": ""
+    },
     "site": {
       "name": "www.haashi.fr",
       "description1": "Le site sur lequel vous êtes actuellement.",

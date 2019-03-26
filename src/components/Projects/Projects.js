@@ -11,9 +11,14 @@ class Projects extends Component {
         style={{ maxWidth: "1400px" }}
       >
         <Project
+          id="remindme"
+          skillList={["ReactJS", "TypeScript", "Firebase", "GCloud"]}
+          github="https://github.com/Haashi/remindme"
+        />
+        <Project
           id="site"
           skillList={["ReactJS", "Bootstrap", "i18n"]}
-          github="https://github.com/Haashi/www.haashi.fr"
+          github="https://github.com/Haashi/Portfolio"
         />
         <Project
           id="screepsmod-httpwelcome"

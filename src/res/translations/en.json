@@ -43,6 +43,12 @@
   "projects": {
     "tab": "Projects",
     "github": "See me on github",
+    "remindme": {
+      "name": "remindme.haashi.fr",
+      "description1": "Website to make reminder via e-mail.",
+      "description2": "Using Firebase as a backend.",
+      "description3": ""
+    },
     "site": {
       "name": "www.haashi.fr",
       "description1": "The site you are currently browsing.",
