@@ -24,7 +24,6 @@ class Edubg extends Component {
           <hr />
           <Edu //edu component to render all the informations
             id="esisar"
-            current
           />{" "}
           <Edu id="cpge" /> <Edu id="bac" />{" "}
         </div>{" "}

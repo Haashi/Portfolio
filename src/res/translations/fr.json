@@ -2,23 +2,18 @@
   "languageButton": "FR",
   "home": {
     "welcome": "Bonjour !",
-    "me": "Je m'appelle Baptiste, ingénieur informatique en formation.",
-    "description1": "Cela fait 2 ans que je développe, et je voulais afficher mon travail à travers ce site.",
-    "description2": "Vous pouvez en savoir plus sur moi dans les autres onglets.",
+    "me": "Je m'appelle Baptiste, ingénieur informatique.",
+    "description1": "Cela fait 3 ans que je suis dans le monde de l'informatique, et je voulais afficher mon travail à travers ce site.",
+    "description2": "Vous pouvez en savoir plus sur moi et mes différents projets dans les autres onglets.",
     "description3": "Un CV hors-ligne est disponible en téléchargement.",
-    "learnmore": "En savoir plus",
-    "internship": {
-      "name": "En recherche de stage !",
-      "description1": "De Février~Mars 2019 pour une durée de 6 mois.",
-      "description2": " Ce stage permet de finaliser mon cursus scolaire (projet de fin d'étude). Ce stage peut concerner tout ce qui est en rapport avec les technologies de l'information."
-    }
+    "learnmore": "En savoir plus"
   },
   "edubg": {
     "tab": "Parcours scolaire",
     "esisar": {
       "name": "Diplôme d'ingénieur",
       "startdate": "2016",
-      "enddate": "Aujourd'hui",
+      "enddate": "2019",
       "description": "à GRENOBLE-INP ESISAR (Ecole nationale supérieure en systèmes avancés et réseaux), 26000 Valence, France",
       "iconurl": "logo-esisar.gif",
       "linkurl": "http://esisar.grenoble-inp.fr/"
@@ -133,10 +128,18 @@
     "synaaps": {
       "name": "Stage à SynAaps 69603 Villeurbanne, France",
       "startdate": "Févr 2019",
-      "enddate": "Aujourd'hui",
-      "description": "",
+      "enddate": "Juil 2019",
+      "description": "Mise en place d'une solution de supervision centralisée, distribuée, qui peut être mise à l'échelle.",
       "iconurl": "synaaps.png",
       "linkurl": "https://www.synaaps.com/"
+    },
+    "cirilgroup": {
+      "name": "Ingénieur DevOps à Ciril GROUP 69603 Villeurbanne, France",
+      "startdate": "Juil 2019",
+      "enddate": "Aujourd'hui",
+      "description": "",
+      "iconurl": "cirilgroup.gif",
+      "linkurl": "https://www.cirilgroup.com/"
     }
   },
   "download": {
@@ -144,7 +147,7 @@
     "resumelink": "Baptiste_Pontanier_CV.pdf"
   },
   "info": {
-    "current": "Etudiant à Grenoble-INP Esisar",
+    "current": "Ingénieur DevOps à Ciril GROUP",
     "place": "Villeurbanne 69100, FRA",
     "languages": {
       "tag": "Langues",

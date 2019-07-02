@@ -2,23 +2,18 @@
   "languageButton": "EN",
   "home": {
     "welcome": "Hi !",
-    "me": "My name is Baptiste, French IT engineering student.",
-    "description1": "I've been coding for now 2 years and wish to showcase my work on this site.",
+    "me": "My name is Baptiste, French IT engineer.",
+    "description1": "I've been in IT for now 3 years and wish to showcase my work on this site.",
     "description2": "You can know more about me in the other tabs.",
     "description3": "You also can download my offline resume.",
-    "learnmore": "Learn more",
-    "internship": {
-      "name": "Looking for internship !",
-      "description1": "From February~March 2019 for a duration of 6 months.",
-      "description2": " This internship is required for me to graduate from engineering school. This can be about anything related to IT."
-    }
+    "learnmore": "Learn more"
   },
   "edubg": {
     "tab": "Educational background",
     "esisar": {
       "name": "IT engineering degree",
       "startdate": "2016",
-      "enddate": "Current",
+      "enddate": "2019",
       "description": "at GRENOBLE-INP ESISAR (Higher Institute of Engineering in Advanced Systems and Networks), 26000 Valence, France",
       "iconurl": "logo-esisar.gif",
       "linkurl": "http://esisar.grenoble-inp.fr/welcome/"
@@ -133,10 +128,18 @@
     "synaaps": {
       "name": "Internship at SynAaps 69603 Villeurbanne, France",
       "startdate": "Febr 2019",
-      "enddate": "Current",
-      "description": "",
+      "enddate": "July 2019",
+      "description": "Setting up a distributed and scalable monitoring solution.",
       "iconurl": "synaaps.png",
       "linkurl": "https://www.synaaps.com/"
+    },
+    "cirilgroup": {
+      "name": "DevOps Engineer at SynAaps 69603 Villeurbanne, France",
+      "startdate": "July 2019",
+      "enddate": "Current",
+      "description": "",
+      "iconurl": "cirilgroup.gif",
+      "linkurl": "https://www.cirilgroup.com/"
     }
   },
   "download": {
@@ -144,7 +147,7 @@
     "resumelink": "Baptiste_Pontanier_resume.pdf"
   },
   "info": {
-    "current": "Student at Grenoble-INP Esisar",
+    "current": "DevOps Engineer at Ciril GROUP",
     "place": "Villeurbanne 69100, FRA",
     "languages": {
       "tag": "Languages",
