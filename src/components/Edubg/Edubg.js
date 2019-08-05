@@ -15,7 +15,7 @@ class Edubg extends Component {
             className="w3-text-grey w3-padding-16 w3-center"
           >
             <i //cute font-awesome degree icon
-              className="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-light-green"
+              className="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-light-blue"
             />{" "}
             {t("edubg.tab", {
               framework: "react-i18next"

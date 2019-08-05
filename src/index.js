@@ -4,7 +4,6 @@ import "./include/bootstrap";
 import "w3-css/w3.css";
 import "./index.css";
 import App from "./components/App/App";
-import registerServiceWorker from "./registerServiceWorker";
 import "font-awesome/css/font-awesome.min.css";
 import { I18nextProvider } from "react-i18next";
 import i18next from "i18next";
@@ -36,4 +35,3 @@ ReactDOM.render(
   </CookiesProvider>,
   document.getElementById("root")
 );
-registerServiceWorker();

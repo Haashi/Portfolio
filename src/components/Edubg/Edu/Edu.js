@@ -40,7 +40,7 @@ class Edu extends Component {
                 })}
               </b>
             </h5>
-            <h6 className="w3-text-light-green">
+            <h6 className="w3-text-light-blue">
               <i //cute calendar icon
                 className="fa fa-calendar fa-fw w3-margin-right"
               />
@@ -49,7 +49,7 @@ class Edu extends Component {
               }) + " - "}
               <span //if school is current, highlight it
                 className={
-                  this.props.current ? "w3-tag w3-light-green w3-round" : ""
+                  this.props.current ? "w3-tag w3-light-blue w3-round" : ""
                 }
               >
                 {t("edubg." + this.props.id + ".enddate", {

@@ -31,7 +31,7 @@ class Exp extends Component {
     );
     if (this.props.period) {
       date = (
-        <h6 className="w3-text-light-green">
+        <h6 className="w3-text-light-blue">
           <i className="fa fa-calendar fa-fw w3-margin-right" />
           {t("workexp." + this.props.id + ".startdate", {
             framework: "react-i18next"
@@ -40,7 +40,7 @@ class Exp extends Component {
       );
     } else {
       date = (
-        <h6 className="w3-text-light-green">
+        <h6 className="w3-text-light-blue">
           <i className="fa fa-calendar fa-fw w3-margin-right" />
           {t("workexp." + this.props.id + ".startdate", {
             framework: "react-i18next"
@@ -48,7 +48,7 @@ class Exp extends Component {
           -{" "}
           <span
             className={
-              this.props.current ? "w3-tag w3-light-green w3-round" : ""
+              this.props.current ? "w3-tag w3-light-blue w3-round" : ""
             }
           >
             {t("workexp." + this.props.id + ".enddate", {

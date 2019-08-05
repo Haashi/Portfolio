@@ -47,10 +47,10 @@
   content: "";
 
   /* Add a bit of padding to give some substance outside the "stitching" */
-  padding: 0.38em 0;
+  padding: 0.38em 0;  
 
   /* Set the base colour */
-  background-color: lightgreen;
+  background-color: lightblue;
 
   /* Set a gradient: transparent black at the top to almost-transparent black at the bottom */
   background-image: -webkit-gradient(

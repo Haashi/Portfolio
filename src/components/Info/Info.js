@@ -27,32 +27,32 @@ class Info extends Component {
                 }
               >
                 <p>
-                  <i className="fa fa-briefcase fa-fw w3-large w3-text-light-green" />
+                  <i className="fa fa-briefcase fa-fw w3-large w3-text-light-blue" />
                   {t("info.current", { framework: "react-i18next" })}
                 </p>
                 <p>
-                  <i className="fa fa-home fa-fw w3-large w3-text-light-green" />
+                  <i className="fa fa-home fa-fw w3-large w3-text-light-blue" />
                   {t("info.place", { framework: "react-i18next" })}
                 </p>
                 <p>
-                  <i className="fa fa-envelope fa-fw w3-large w3-text-light-green" />
+                  <i className="fa fa-envelope fa-fw w3-large w3-text-light-blue" />
                   baptiste.pontanier@laposte.net
                 </p>
                 <p>
-                  <i className="fa fa-phone fa-fw w3-large w3-text-light-green" />
+                  <i className="fa fa-phone fa-fw w3-large w3-text-light-blue" />
                   +33642123867
                 </p>
                 <hr />
                 <p className="w3-large w3-text-theme">
                   <b>
-                    <i className="fa fa-globe fa-fw w3-text-light-green" />
+                    <i className="fa fa-globe fa-fw w3-text-light-blue" />
                     {t("info.languages.tag", { framework: "react-i18next" })}
                   </b>
                 </p>
                 <p>{t("info.languages.fr", { framework: "react-i18next" })}</p>
                 <div className="w3-light-grey w3-round-xlarge">
                   <div
-                    className="w3-round-xlarge w3-light-green"
+                    className="w3-round-xlarge w3-light-blue"
                     style={{ height: "24px", width: "100%" }}
                   />
                 </div>
@@ -63,7 +63,7 @@ class Info extends Component {
                 </p>
                 <div className="w3-light-grey w3-round-xlarge">
                   <div
-                    className="w3-round-xlarge w3-light-green"
+                    className="w3-round-xlarge w3-light-blue"
                     style={{ height: "24px", width: "80%" }}
                   />
                 </div>
